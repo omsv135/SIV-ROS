@@ -7,7 +7,7 @@ mkdir catkin_ws
 cd catkin_ws
 mkdir src
 catkin_make
-cd
+cdc
 source ~/catkin_ws/devel/setup.bash
 
 #create a new package "image_processes"
@@ -28,3 +28,4 @@ code .
 writing three nodes' code
 
 run roscore in one terminal and then run three nodes in three terminal windows
+=======
