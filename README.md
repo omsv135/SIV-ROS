@@ -1,4 +1,4 @@
-# SIV-ROS Submissions
+# SIV-ROS
 **Sensor Integration and Visualisation in ROS**
 
 Submission repository for assignments of SIV-ROS project of Robotics Club 2023-24.
